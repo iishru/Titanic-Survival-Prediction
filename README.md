@@ -12,7 +12,7 @@ This project performs **Exploratory Data Analysis (EDA)** and applies **Machine 
 2. **Exploratory Data Analysis (EDA)**: Visualizing survival rates.
 3. **Feature Engineering**: Converting categorical data.
 4. **Machine Learning Model**: Using `RandomForestClassifier` for prediction.
-5. **Model Accuracy**: Achieved `XX%` accuracy.
+5. **Model Accuracy: Achieved 78% accuracy.
 
 ## 📊 Key Insights:
 - Passengers in **higher classes** had better survival chances.
