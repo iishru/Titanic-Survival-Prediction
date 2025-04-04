@@ -25,7 +25,7 @@ This project performs **Exploratory Data Analysis (EDA)** and applies **Machine 
 
 ## 🔗 How to Run:
 1. Clone this repository:  
-https://github.com/yourusername/Titanic-Survival-Prediction.git
+ https://github.com/iishru/Titanic-Survival-Prediction
 2. Open the **.ipynb file** in Google Colab or Jupyter Notebook.
 3. Run all the cells to reproduce the results.
 
